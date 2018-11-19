@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
 
-I'm learning to code.
+
+I'm learning to code. More text.
